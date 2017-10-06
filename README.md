@@ -1,14 +1,14 @@
 # Problem sheet 1
 My explantions to my code for problem sheet 1
 
-#git clone
+# git clone
 
 You can use this command on your cmd prompt with the current url at the end in order to download all files 
 that are solutions to the releated questions.
 
 Example: git clone https://github.com/yrrag5/Go-Problem-Solutions-1.git
 
-#Questions
+# Questions
 
 Q1 - Hello, world in Japenese
 
@@ -50,6 +50,6 @@ Q10 - Reverse String
 
 I reverse a user inputted word using rune which transforms the word into unicode which helps reversing the string.
 
-#Conclusion
+# Conclusion
 
 I adapted alot of work from browsing through the web and have a link on the top of my code in each file of the URL that helped me come to realization of a solution to each question. Im still discovering the GO programming language and hopefully through the module Data Representation and Query, I can become more comfortable in the language.
