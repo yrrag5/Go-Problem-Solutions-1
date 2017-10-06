@@ -9,5 +9,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("世界!") // Displays the message Hello World! in Japanese 
+	// Displays the message Hello World! in Japanese 
+	fmt.Println("こんにちは世界!") 
 }
